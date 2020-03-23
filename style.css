@@ -1,0 +1,82 @@
+/* CSS Reset */
+body{
+  background-color: #f5f5dc;
+}
+h1{
+  margin-bottom: 10px;
+}
+footer{
+  margin: 20px;
+}
+span1{
+  font-size:5vw;
+  margin-bottom: 1px;
+  padding-bottom: :1px;
+  border-top: 2.5px solid black;
+}
+span2{
+  font-size:7vw;
+  margin-bottom: 1px;
+  padding-bottom: :1px;
+  border-top: 2.5px solid black;
+  border-bottom:1px solid black;
+}
+span3{
+border-top: 1px solid grey;
+padding-top: 7px;
+}
+.frame{
+  border: 0.7px solid grey
+}
+.name-box {
+  margin-top: 70px;
+  margin-left:40px;
+  margin-bottom: 70px;
+}
+.name{
+  font-family: 'Noto Serif KR', serif;
+  font-size:5vw solid;
+
+}
+.country-box{
+  margin-left: 40px;
+}
+.country{
+ font-family: 'Noto Serif KR', serif;
+  font-size:10vw solid;
+  color: black;
+}
+.letter{
+  font-family: 'Noto Serif KR', serif;
+  margin: 40px;
+  font-size: 4vw;
+  padding-bottom: 20px;
+}
+.photo{
+  background-image: url(images/icons.png);
+  background-size: cover;
+  background-position: center;
+  padding-top: 56.25%; /* 16:9 */
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.photo-name{
+  font-family: 'Noto Serif KR', serif;
+  font-size: 1.1vw;
+  margin-top: 8px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.End{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+.ps{
+  font-family: 'Noto Serif KR', serif;
+  font-size: 1.3vw;
+  font-weight: 100;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
